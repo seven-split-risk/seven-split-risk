@@ -1,6 +1,6 @@
-# Grupo Seven
+# Grupo Seven - Área do DEV
 
-Olá, seja bem-vindo(a) ao GitHub do Grupo Seven.
+Olá, DEV! Seja bem-vindo(a) ao GitHub do Grupo Seven.
 
 Quer conhecer um pouquinho mais sobre o Grupo? Por favor, [acesse o nosso site.](https://gruposeven.app)  <br/><br/>
 
