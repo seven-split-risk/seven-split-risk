@@ -1,8 +1,8 @@
-# Grupo Seven - Área do DEV
+# Olá, DEV!
 
-Olá, DEV! Seja bem-vindo(a) ao GitHub do Grupo Seven.
+Seja bem-vindo(a) ao GitHub do Grupo Seven.
 
-Quer conhecer um pouquinho mais sobre o Grupo? Por favor, [acesse o nosso site.](https://gruposeven.app)  <br/><br/>
+Que tal conhecer um pouquinho mais sobre a nossa empresa? Basta [acessar o nosso site.](https://gruposeven.app)  <br/><br/>
 
 Aqui estão algumas das tecnologias que utilizamos em nossos projetos:
 
